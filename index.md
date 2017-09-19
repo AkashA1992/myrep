@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Akash's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/AkashA1992/myrep/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,6 +17,10 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- WSD
+- UXD
+- SAD
+
 
 1. Numbered
 2. List
